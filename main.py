@@ -6,7 +6,7 @@ Script para Reconciliação de Bases de Dados
 Este script compara duas bases de dados e identifica divergências
 coluna por coluna e linha por linha.
 
-Autor: Manus AI
+Autor: Pedro Godoy (with AI Helper)
 Data: 18/07/2025
 """
 
@@ -259,3 +259,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
